@@ -1,0 +1,6 @@
+{
+  "name": "HR-SOP Master - Quản lý Quy trình & Tiến độ Nhiệm vụ Thời gian thực",
+  "description": "Hệ thống tự động hóa quy trình HR-SOP tiêu chuẩn và theo dõi tiến độ nhiệm vụ thời gian thực cho doanh nghiệp vận tải 500 nhân sự.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
